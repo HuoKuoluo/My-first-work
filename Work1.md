@@ -1,5 +1,5 @@
-//My first work of C.
-#include <stdio.h>
+//My first work of C.  ＜/br＞
+#include <stdio.h>  ＜/br＞
 #include <ctype.h>
 char get_choice(void);
 char get_first(void);
