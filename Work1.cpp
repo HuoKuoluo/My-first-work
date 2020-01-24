@@ -1,5 +1,5 @@
 //My first work of C. 
-#include <stdio.h>    <BR/>
+#include <stdio.h>
 #include <ctype.h>
 char get_choice(void);
 char get_first(void);
